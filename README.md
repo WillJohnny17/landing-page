@@ -1,0 +1,1 @@
+This project is called landing page. Its an exercise on the odin project where they give me the design and I have to lay the website out correctly using all the knowledge i've gained so far. 
