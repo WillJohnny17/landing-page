@@ -38,7 +38,6 @@ a { color: #e5e7eb;
     display: flex;
     background: #1f2937;
     align-items: center;
-    flex: 1;
 }
 
 h1 {
@@ -131,6 +130,53 @@ h2 {
     font-weight: bolder;
     color: #1f2937;
     margin-left: 200px;
+}
+
+.fourth {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+    background: #3882f6;
+    margin: 150px 250px 150px 250px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: solid white;
+    border-width: 1px 1px;
+}
+
+.call {
+    color: #f9faf8;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.clickthat {
+    color: #e5e7eb;
+    font-size: 26px;
+}
+
+.otherbu {
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    background: #3882f6;
+    color: #f9faf8;
+    font-size: 16px;
+    border: solid #f9faf8;
+    border-width: 2px 2px;
+    font-weight: bold;
+}
+
+.footer {
+    height: 100px;
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    font-size: 20px;
+    gap: 20px;
 }
 
 
